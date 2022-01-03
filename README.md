@@ -1,4 +1,4 @@
-User state persists between different routes by wrapping useContect around routes.
+## Note: User state persists between different routes by wrapping useContext around routes.
 
 ## Available Scripts
 
