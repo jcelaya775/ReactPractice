@@ -2,11 +2,11 @@ import React, { useState, useContext } from 'react'
 
 const defUsers = [
     {
-        name: 'Jorge',
+        name: 'Joe',
         age: 20,
     },
     {
-        name: 'Joe M',
+        name: 'John Doe',
         age: 23,
     },
 ]

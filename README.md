@@ -1,5 +1,7 @@
 ### Note: User state persists between different routes by wrapping useContext around routes.
 
+![thumbnail.png](thumbnail.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
